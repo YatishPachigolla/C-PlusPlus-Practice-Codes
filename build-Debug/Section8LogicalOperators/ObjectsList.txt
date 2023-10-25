@@ -1,0 +1,1 @@
+../build-Debug/Section8LogicalOperators/main.cpp.o   

@@ -1,0 +1,1 @@
+../build-Debug/Section19StreamManipulatorsIntegers2/main.cpp.o   

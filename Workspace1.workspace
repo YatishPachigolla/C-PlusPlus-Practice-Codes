@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace1" Database="" Version="10000">
+  <Project Name="HelloWorld" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="Challengesection4" Path="Challengesection4/Challengesection4.project" Active="No"/>
+  <Project Name="ioInteresting" Path="ioInteresting/ioInteresting.project" Active="No"/>
+  <Project Name="ioInteresting2" Path="ioInteresting2/ioInteresting2.project" Active="No"/>
+  <Project Name="ioInteresting3" Path="ioInteresting3/ioInteresting3.project" Active="No"/>
+  <Project Name="Section6PrimitiveDataTypes" Path="Section6PrimitiveDataTypes/Section6PrimitiveDataTypes.project" Active="No"/>
+  <Project Name="dummy" Path="dummy/dummy.project" Active="No"/>
+  <Project Name="Section6sizeof" Path="Section6sizeof/Section6sizeof.project" Active="No"/>
+  <Project Name="Section6sizeofbasics" Path="Section6sizeofbasics/Section6sizeofbasics.project" Active="No"/>
+  <Project Name="Section7Arrays" Path="Section7Arrays/Section7Arrays.project" Active="No"/>
+  <Project Name="Section7Vectors" Path="Section7Vectors/Section7Vectors.project" Active="No"/>
+  <Project Name="Section7Challenge" Path="Section7Challenge/Section7Challenge.project" Active="No"/>
+  <Project Name="Section8TypeCasting" Path="Section8TypeCasting/Section8TypeCasting.project" Active="No"/>
+  <Project Name="Section8EqualityTest" Path="Section8EqualityTest/Section8EqualityTest.project" Active="No"/>
+  <Project Name="Section8LogicalOperators" Path="Section8LogicalOperators/Section8LogicalOperators.project" Active="No"/>
+  <Project Name="Section8Challenge" Path="Section8Challenge/Section8Challenge.project" Active="No"/>
+  <Project Name="Section9NestedIf" Path="Section9NestedIf/Section9NestedIf.project" Active="No"/>
+  <Project Name="Section9Switchstatements" Path="Section9Switchstatements/Section9Switchstatements.project" Active="No"/>
+  <Project Name="Section9EnumConstSwitchStatements" Path="Section9EnumConstSwitchStatements/Section9EnumConstSwitchStatements.project" Active="No"/>
+  <Project Name="Section9ConditionalOperator" Path="Section9ConditionalOperator/Section9ConditionalOperator.project" Active="No"/>
+  <Project Name="Section9ForLoop" Path="Section9ForLoop/Section9ForLoop.project" Active="No"/>
+  <Project Name="Section9RangebasedForLoop" Path="Section9RangebasedForLoop/Section9RangebasedForLoop.project" Active="No"/>
+  <Project Name="Section9WhileLoop" Path="Section9WhileLoop/Section9WhileLoop.project" Active="No"/>
+  <Project Name="Section9ContinueandBreak" Path="Section9ContinueandBreak/Section9ContinueandBreak.project" Active="No"/>
+  <Project Name="Section10CharacterFunctions" Path="Section10CharacterFunctions/Section10CharacterFunctions.project" Active="No"/>
+  <Project Name="Section10CStyleStrings" Path="Section10CStyleStrings/Section10CStyleStrings.project" Active="No"/>
+  <Project Name="Section10CStyleStringsPart2" Path="Section10CStyleStringsPart2/Section10CStyleStringsPart2.project" Active="No"/>
+  <Project Name="Section10C++StyleStrings" Path="Section10C++StyleStrings/Section10C++StyleStrings.project" Active="No"/>
+  <Project Name="Section10Challenge" Path="Section10Challenge/Section10Challenge.project" Active="No"/>
+  <Project Name="Section11Functions" Path="Section11Functions/Section11Functions.project" Active="No"/>
+  <Project Name="Section11RandomnumbersinFunctions" Path="Section11RandomnumbersinFunctions/Section11RandomnumbersinFunctions.project" Active="No"/>
+  <Project Name="Section11FunctionsandPrototypes" Path="Section11FunctionsandPrototypes/Section11FunctionsandPrototypes.project" Active="No"/>
+  <Project Name="Section11FunctionsDefaultArguments" Path="Section11FunctionsDefaultArguments/Section11FunctionsDefaultArguments.project" Active="No"/>
+  <Project Name="Section11DefaultArgumentsPart2" Path="Section11DefaultArgumentsPart2/Section11DefaultArgumentsPart2.project" Active="No"/>
+  <Project Name="Section11OverloadingFunctions" Path="Section11OverloadingFunctions/Section11OverloadingFunctions.project" Active="No"/>
+  <Project Name="Section11OverloadingFunctionsCodingExercise" Path="Section11OverloadingFunctionsCodingExercise/Section11OverloadingFunctionsCodingExercise.project" Active="No"/>
+  <Project Name="Section11PassingArraystoFunctionsPBV" Path="Section11PassingArraystoFunctionsPBV/Section11PassingArraystoFunctionsPBV.project" Active="No"/>
+  <Project Name="Section11PassingArraystoFunctionsPBVCodingExercise" Path="Section11PassingArraystoFunctionsPBVCodingExercise/Section11PassingArraystoFunctionsPBVCodingExercise.project" Active="No"/>
+  <Project Name="Section11PassbyReference" Path="Section11PassbyReference/Section11PassbyReference.project" Active="No"/>
+  <Project Name="Section11PassbyReferenceCodingExercise" Path="Section11PassbyReferenceCodingExercise/Section11PassbyReferenceCodingExercise.project" Active="No"/>
+  <Project Name="Section11RecursuveFunctions" Path="Section11RecursuveFunctions/Section11RecursuveFunctions.project" Active="No"/>
+  <Project Name="Section11recursiveFunctionCodingExercise" Path="Section11recursiveFunctionCodingExercise/Section11recursiveFunctionCodingExercise.project" Active="No"/>
+  <Project Name="Section11RecursiveFunctionsCodingExercise2" Path="Section11RecursiveFunctionsCodingExercise2/Section11RecursiveFunctionsCodingExercise2.project" Active="No"/>
+  <Project Name="dummy2" Path="dummy2/dummy2.project" Active="No"/>
+  <Project Name="Section12PointersforVectors" Path="Section11PointersforVectors/Section11PointersforVectors.project" Active="No"/>
+  <Project Name="Section12DMA" Path="Section12DMA/Section12DMA.project" Active="No"/>
+  <Project Name="Section12DMAarrays" Path="Section12DMAarrays/Section12DMAarrays.project" Active="No"/>
+  <Project Name="Section12ArrayandPointers" Path="Section12ArrayandPointers/Section12ArrayandPointers.project" Active="No"/>
+  <Project Name="Section12PointerArithmatic" Path="Section12PointerArithmatic/Section12PointerArithmatic.project" Active="No"/>
+  <Project Name="Section12ConstPointers" Path="Section12ConstPointers/Section12ConstPointers.project" Active="No"/>
+  <Project Name="Section12PassingPointerstoFunctions" Path="Section12PassingPointerstoFunctions/Section12PassingPointerstoFunctions.project" Active="No"/>
+  <Project Name="Section13ClassesandObjects" Path="Section13ClassesandObjects/Section13ClassesandObjects.project" Active="No"/>
+  <Project Name="DeclareClassAndObjects" Path="DeclareClassAndObjects/DeclareClassAndObjects.project" Active="No"/>
+  <VirtualDirectory Name="Workspace2">
+    <Project Name="Section13ClassAndObjects" Path="Section13ClassAndObjects/Section13ClassAndObjects.project" Active="No"/>
+    <Project Name="Section13AccessClassMembers" Path="Section13AccessClassMembers/Section13AccessClassMembers.project" Active="No"/>
+    <Project Name="Section13AccessModifiers" Path="Section13AccessModifiers/Section13AccessModifiers.project" Active="No"/>
+    <Project Name="Section13ImplementingMethods1" Path="Section13ImplementingMethods1/Section13ImplementingMethods1.project" Active="No"/>
+    <Project Name="Section13ImplementationMethods2" Path="Section13ImplementationMethods2/Section13ImplementationMethods2.project" Active="No"/>
+    <Project Name="Section13ConstructorsandDestructors" Path="Section13ConstructorsandDestructors/Section13ConstructorsandDestructors.project" Active="No"/>
+    <Project Name="Section13DefaultConstructor" Path="Section13DefaultConstructor/Section13DefaultConstructor.project" Active="No"/>
+    <Project Name="Section13ConstructorInitializationLists" Path="Section13ConstructorInitializationLists/Section13ConstructorInitializationLists.project" Active="No"/>
+    <Project Name="Section13DelegatingConstructors" Path="Section13DelegatingConstructors/Section13DelegatingConstructors.project" Active="No"/>
+    <Project Name="Section13DefaultConstructorParameters" Path="Section13DefaultConstructorParameters/Section13DefaultConstructorParameters.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="Section18ExceptionHandling" Path="Section18ExceptionHandling/Section18ExceptionHandling.project" Active="No"/>
+  <Project Name="Section18ExceptionHandling2" Path="Section18ExceptionHandling2/Section18ExceptionHandling2.project" Active="No"/>
+  <Project Name="Section18ExceptionHandling3Functions" Path="Section18ExceptionHandling3Functions/Section18ExceptionHandling3Functions.project" Active="No"/>
+  <Project Name="Section18MultipleExceptionHandlingFunctions4" Path="Section18MultipleExceptionHandlingFunctions4/Section18MultipleExceptionHandlingFunctions4.project" Active="No"/>
+  <Project Name="Section18ExceptionHandling5StackUnwinding" Path="Section18ExceptionHandling5StackUnwinding/Section18ExceptionHandling5StackUnwinding.project" Active="No"/>
+  <Project Name="Section18ExceptionHandling6UserDefinedExceptionClasses" Path="Section18ExceptionHandling6UserDefinedExceptionClasses/Section18ExceptionHandling6UserDefinedExceptionClasses.project" Active="No"/>
+  <Project Name="Section19StreamManipulatorsBoolean1" Path="Section19StreamManipulatorsBoolean1/Section19StreamManipulatorsBoolean1.project" Active="No"/>
+  <Project Name="Section19StreamManipulatorsIntegers2" Path="Section19StreamManipulatorsIntegers2/Section19StreamManipulatorsIntegers2.project" Active="No"/>
+  <Project Name="section19StreamManipulatorsFloats3" Path="section19StreamManipulatorsFloats3/section19StreamManipulatorsFloats3.project" Active="No"/>
+  <VirtualDirectory Name="DataStructuresandAlgorithms">
+    <Project Name="Section2Structures1" Path="Section2Structures1/Section2Structures1.project" Active="Yes"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="HelloWorld" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="Challengesection4" ConfigName="Debug"/>
+      <Project Name="ioInteresting" ConfigName="Debug"/>
+      <Project Name="ioInteresting2" ConfigName="Debug"/>
+      <Project Name="ioInteresting3" ConfigName="Debug"/>
+      <Project Name="Section6PrimitiveDataTypes" ConfigName="Debug"/>
+      <Project Name="dummy" ConfigName="Debug"/>
+      <Project Name="Section6sizeof" ConfigName="Debug"/>
+      <Project Name="Section6sizeofbasics" ConfigName="Debug"/>
+      <Project Name="Section7Arrays" ConfigName="Debug"/>
+      <Project Name="Section7Vectors" ConfigName="Debug"/>
+      <Project Name="Section7Challenge" ConfigName="Debug"/>
+      <Project Name="Section8TypeCasting" ConfigName="Debug"/>
+      <Project Name="Section8EqualityTest" ConfigName="Debug"/>
+      <Project Name="Section8LogicalOperators" ConfigName="Debug"/>
+      <Project Name="Section8Challenge" ConfigName="Debug"/>
+      <Project Name="Section9NestedIf" ConfigName="Debug"/>
+      <Project Name="Section9Switchstatements" ConfigName="Debug"/>
+      <Project Name="Section9EnumConstSwitchStatements" ConfigName="Debug"/>
+      <Project Name="Section9ConditionalOperator" ConfigName="Debug"/>
+      <Project Name="Section9ForLoop" ConfigName="Debug"/>
+      <Project Name="Section9RangebasedForLoop" ConfigName="Debug"/>
+      <Project Name="Section9WhileLoop" ConfigName="Debug"/>
+      <Project Name="Section9ContinueandBreak" ConfigName="Debug"/>
+      <Project Name="Section10CharacterFunctions" ConfigName="Debug"/>
+      <Project Name="Section10CStyleStrings" ConfigName="Debug"/>
+      <Project Name="Section10CStyleStringsPart2" ConfigName="Debug"/>
+      <Project Name="Section10C++StyleStrings" ConfigName="Debug"/>
+      <Project Name="Section10Challenge" ConfigName="Debug"/>
+      <Project Name="Section11Functions" ConfigName="Debug"/>
+      <Project Name="Section11RandomnumbersinFunctions" ConfigName="Debug"/>
+      <Project Name="Section11FunctionsandPrototypes" ConfigName="Debug"/>
+      <Project Name="Section11FunctionsDefaultArguments" ConfigName="Debug"/>
+      <Project Name="Section11DefaultArgumentsPart2" ConfigName="Debug"/>
+      <Project Name="Section11OverloadingFunctions" ConfigName="Debug"/>
+      <Project Name="Section11OverloadingFunctionsCodingExercise" ConfigName="Debug"/>
+      <Project Name="Section11PassingArraystoFunctionsPBV" ConfigName="Debug"/>
+      <Project Name="Section11PassingArraystoFunctionsPBVCodingExercise" ConfigName="Debug"/>
+      <Project Name="Section11PassbyReference" ConfigName="Debug"/>
+      <Project Name="Section11PassbyReferenceCodingExercise" ConfigName="Debug"/>
+      <Project Name="Section11RecursuveFunctions" ConfigName="Debug"/>
+      <Project Name="Section11recursiveFunctionCodingExercise" ConfigName="Debug"/>
+      <Project Name="Section11RecursiveFunctionsCodingExercise2" ConfigName="Debug"/>
+      <Project Name="dummy2" ConfigName="Debug"/>
+      <Project Name="Section12PointersforVectors" ConfigName="Debug"/>
+      <Project Name="Section12DMA" ConfigName="Debug"/>
+      <Project Name="Section12DMAarrays" ConfigName="Debug"/>
+      <Project Name="Section12ArrayandPointers" ConfigName="Debug"/>
+      <Project Name="Section12PointerArithmatic" ConfigName="Debug"/>
+      <Project Name="Section12ConstPointers" ConfigName="Debug"/>
+      <Project Name="Section12PassingPointerstoFunctions" ConfigName="Debug"/>
+      <Project Name="Section13ClassesandObjects" ConfigName="Debug"/>
+      <Project Name="DeclareClassAndObjects" ConfigName="Debug"/>
+      <Project Name="Section13ClassAndObjects" ConfigName="Debug"/>
+      <Project Name="Section13AccessClassMembers" ConfigName="Debug"/>
+      <Project Name="Section13AccessModifiers" ConfigName="Debug"/>
+      <Project Name="Section13ImplementingMethods1" ConfigName="Debug"/>
+      <Project Name="Section13ImplementationMethods2" ConfigName="Debug"/>
+      <Project Name="Section13ConstructorsandDestructors" ConfigName="Debug"/>
+      <Project Name="Section13DefaultConstructor" ConfigName="Debug"/>
+      <Project Name="Section13ConstructorInitializationLists" ConfigName="Debug"/>
+      <Project Name="Section13DelegatingConstructors" ConfigName="Debug"/>
+      <Project Name="Section13DefaultConstructorParameters" ConfigName="Debug"/>
+      <Project Name="Section18ExceptionHandling" ConfigName="Debug"/>
+      <Project Name="Section18ExceptionHandling2" ConfigName="Debug"/>
+      <Project Name="Section18ExceptionHandling3Functions" ConfigName="Debug"/>
+      <Project Name="Section18MultipleExceptionHandlingFunctions4" ConfigName="Debug"/>
+      <Project Name="Section18ExceptionHandling5StackUnwinding" ConfigName="Debug"/>
+      <Project Name="Section18ExceptionHandling6UserDefinedExceptionClasses" ConfigName="Debug"/>
+      <Project Name="Section19StreamManipulatorsBoolean1" ConfigName="Debug"/>
+      <Project Name="Section19StreamManipulatorsIntegers2" ConfigName="Debug"/>
+      <Project Name="section19StreamManipulatorsFloats3" ConfigName="Debug"/>
+      <Project Name="Section2Structures1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="HelloWorld" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="Challengesection4" ConfigName="Release"/>
+      <Project Name="ioInteresting" ConfigName="Release"/>
+      <Project Name="ioInteresting2" ConfigName="Release"/>
+      <Project Name="ioInteresting3" ConfigName="Release"/>
+      <Project Name="Section6PrimitiveDataTypes" ConfigName="Release"/>
+      <Project Name="dummy" ConfigName="Release"/>
+      <Project Name="Section6sizeof" ConfigName="Release"/>
+      <Project Name="Section6sizeofbasics" ConfigName="Release"/>
+      <Project Name="Section7Arrays" ConfigName="Release"/>
+      <Project Name="Section7Vectors" ConfigName="Release"/>
+      <Project Name="Section7Challenge" ConfigName="Release"/>
+      <Project Name="Section8TypeCasting" ConfigName="Release"/>
+      <Project Name="Section8EqualityTest" ConfigName="Release"/>
+      <Project Name="Section8LogicalOperators" ConfigName="Release"/>
+      <Project Name="Section8Challenge" ConfigName="Release"/>
+      <Project Name="Section9NestedIf" ConfigName="Release"/>
+      <Project Name="Section9Switchstatements" ConfigName="Release"/>
+      <Project Name="Section9EnumConstSwitchStatements" ConfigName="Release"/>
+      <Project Name="Section9ConditionalOperator" ConfigName="Release"/>
+      <Project Name="Section9ForLoop" ConfigName="Release"/>
+      <Project Name="Section9RangebasedForLoop" ConfigName="Release"/>
+      <Project Name="Section9WhileLoop" ConfigName="Release"/>
+      <Project Name="Section9ContinueandBreak" ConfigName="Release"/>
+      <Project Name="Section10CharacterFunctions" ConfigName="Release"/>
+      <Project Name="Section10CStyleStrings" ConfigName="Release"/>
+      <Project Name="Section10CStyleStringsPart2" ConfigName="Release"/>
+      <Project Name="Section10C++StyleStrings" ConfigName="Release"/>
+      <Project Name="Section10Challenge" ConfigName="Release"/>
+      <Project Name="Section11Functions" ConfigName="Release"/>
+      <Project Name="Section11RandomnumbersinFunctions" ConfigName="Release"/>
+      <Project Name="Section11FunctionsandPrototypes" ConfigName="Release"/>
+      <Project Name="Section11FunctionsDefaultArguments" ConfigName="Release"/>
+      <Project Name="Section11DefaultArgumentsPart2" ConfigName="Release"/>
+      <Project Name="Section11OverloadingFunctions" ConfigName="Release"/>
+      <Project Name="Section11OverloadingFunctionsCodingExercise" ConfigName="Release"/>
+      <Project Name="Section11PassingArraystoFunctionsPBV" ConfigName="Release"/>
+      <Project Name="Section11PassingArraystoFunctionsPBVCodingExercise" ConfigName="Release"/>
+      <Project Name="Section11PassbyReference" ConfigName="Release"/>
+      <Project Name="Section11PassbyReferenceCodingExercise" ConfigName="Release"/>
+      <Project Name="Section11RecursuveFunctions" ConfigName="Release"/>
+      <Project Name="Section11recursiveFunctionCodingExercise" ConfigName="Release"/>
+      <Project Name="Section11RecursiveFunctionsCodingExercise2" ConfigName="Release"/>
+      <Project Name="dummy2" ConfigName="Release"/>
+      <Project Name="Section12PointersforVectors" ConfigName="Release"/>
+      <Project Name="Section12DMA" ConfigName="Release"/>
+      <Project Name="Section12DMAarrays" ConfigName="Release"/>
+      <Project Name="Section12ArrayandPointers" ConfigName="Release"/>
+      <Project Name="Section12PointerArithmatic" ConfigName="Release"/>
+      <Project Name="Section12ConstPointers" ConfigName="Release"/>
+      <Project Name="Section12PassingPointerstoFunctions" ConfigName="Release"/>
+      <Project Name="Section13ClassesandObjects" ConfigName="Release"/>
+      <Project Name="DeclareClassAndObjects" ConfigName="Release"/>
+      <Project Name="Section13ClassAndObjects" ConfigName="Release"/>
+      <Project Name="Section13AccessClassMembers" ConfigName="Release"/>
+      <Project Name="Section13AccessModifiers" ConfigName="Release"/>
+      <Project Name="Section13ImplementingMethods1" ConfigName="Release"/>
+      <Project Name="Section13ImplementationMethods2" ConfigName="Release"/>
+      <Project Name="Section13ConstructorsandDestructors" ConfigName="Release"/>
+      <Project Name="Section13DefaultConstructor" ConfigName="Release"/>
+      <Project Name="Section13ConstructorInitializationLists" ConfigName="Release"/>
+      <Project Name="Section13DelegatingConstructors" ConfigName="Release"/>
+      <Project Name="Section13DefaultConstructorParameters" ConfigName="Release"/>
+      <Project Name="Section18ExceptionHandling" ConfigName="Release"/>
+      <Project Name="Section18ExceptionHandling2" ConfigName="Release"/>
+      <Project Name="Section18ExceptionHandling3Functions" ConfigName="Release"/>
+      <Project Name="Section18MultipleExceptionHandlingFunctions4" ConfigName="Release"/>
+      <Project Name="Section18ExceptionHandling5StackUnwinding" ConfigName="Release"/>
+      <Project Name="Section18ExceptionHandling6UserDefinedExceptionClasses" ConfigName="Release"/>
+      <Project Name="Section19StreamManipulatorsBoolean1" ConfigName="Release"/>
+      <Project Name="Section19StreamManipulatorsIntegers2" ConfigName="Release"/>
+      <Project Name="section19StreamManipulatorsFloats3" ConfigName="Release"/>
+      <Project Name="Section2Structures1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
