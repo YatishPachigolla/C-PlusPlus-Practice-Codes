@@ -1,8 +1,10 @@
 #include<iostream>
 //#include<climits>
 //#include<limits.h>
-#include<math.h>
+//#include<math.h>
 #include<cstdint>
+#include<complex.h> //for C
+#include<complex> // for c++ from std library
 using namespace std;
 
 
@@ -105,6 +107,36 @@ int main(){
     cout << il << endl;
     
     
+    
+    cout << "########## complex.h and std::complex analysis and Complex arithmatic ##########" << endl;
+    
+    double _Complex dc = 0; //inbuilt data type
+    
+    cout << "Szie of Double Complex: " << sizeof(dc) << " Bytes" << endl;
+    cout << "Double Complex: " << dc << endl;
+    cout << "Real part: " << creal(dc) << endl; //needs complex.h 
+    cout << "Imaginary part: " << cimag(dc) << endl;  //needs complex.h
+    
+    //Let us work with std::complex template for C++ and modern applications 
+    
+    std::complex<int> ci_std = 3.0 + 4.3;
+    std::complex<double> cd_std_1 = 3.0 + 4.0i; //way_1
+    std::complex<double> cd_std_2{3.0,4.0};     //way_2
+    std::complex<double> cd_std_3(3.0,4.0);     //way_3
+    
+    cout << cd_std_1 << "," << cd_std_2 << "," << cd_std_3 << endl;
+    cout << "Size of Complex Double: " << sizeof(cd_std_1) << " Bytes" << endl;
+    cout << "Size of Complex Int: " << sizeof(ci_std) << " Bytes" << endl;
+    cout << "Real: " << real(cd_std_1) << " and " << "Imag: " << imag(cd_std_1) << endl;
+    cout << "Absolute Value: " << abs(cd_std_1) << " and " << "Argument: " << arg(cd_std_1) << endl;
+    
+    std::complex<double> cd_std_4 = std::polar(5.0,0.927295);
+    cout << "Reconstructed complex: " << cd_std_4 << endl;
+    
+    cout << "Norm here is the squared magnitude: " << norm(cd_std_1) << endl;
+    
+    std::complex<double> cd_std_1_conj = std::conj(cd_std_1);
+    cout << "Conjugate of the complex number: " << cd_std_1_conj << endl;
     
     
     
